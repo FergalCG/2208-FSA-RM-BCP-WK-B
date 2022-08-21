@@ -118,7 +118,7 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac57806bd9f9e0004adb186/content/5ac57806bd9f9e0004adb18c/text)
 
 
-<--## **07 Arrays II**
+<!--# **07 Arrays II**
 
 **[Lecture Slides](Lecture-Slides/07-Arrays-II.pptx)**
 
