@@ -13,9 +13,9 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 5. [Scope](#05-scope)
 6. [Arrays I](#06-arrays-I)
 7. [Arrays II](#07-arrays-ii)
-<!--8. [Sudoku Validator](#08-sudoku-validator)
+8. [Sudoku Validator](#08-sudoku-validator)
 9. [Objects](#09-objects)
-10. [Object Methods](#10-object-methods)
+<!--10. [Object Methods](#10-object-methods)
 11. [Pass by Value/Pass by Reference](#11-pass-by-valuepass-by-reference)
 12. [Higher Order Functions I](#12-higher-order-functions-i)
 13. [Higher Order Functions II](#13-higher-order-functions-ii)
@@ -88,11 +88,11 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ed/text)
 
-<!--[Solutions](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ee/text)
+[Solutions](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ee/text)
 
 **[Solution - Caesar Cypher](https://youtu.be/AN2fwt0n454)**
 
-**[Solution - Find Missing Number](https://youtu.be/20DegeggnKY)**-->
+**[Solution - Find Missing Number](https://youtu.be/20DegeggnKY)**
 
 
 
@@ -118,7 +118,7 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac57806bd9f9e0004adb186/content/5ac57806bd9f9e0004adb18c/text)
 
 
-<!--# **07 Arrays II**
+# **07 Arrays II**
 
 **[Lecture Slides](Lecture-Slides/07-Arrays-II.pptx)**
 
@@ -137,14 +137,14 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 [Lecture Slides](Lecture-Slides/08-BCP-Sudoku.pptx)
 
-**[Review](https://youtu.be/kYe2oNQmO04)**
+<!--**[Review](https://youtu.be/kYe2oNQmO04)**
 
-[Solutions](https://learn.fullstackacademy.com/workshop/5ad399aa137d870004733bac/content/5ad399aa137d870004733bb2/text)
+[Solutions](https://learn.fullstackacademy.com/workshop/5ad399aa137d870004733bac/content/5ad399aa137d870004733bb2/text)-->
 
 
 ## **09 Objects**
 
-[Workshop](https://learn.fullstackacademy.com/workshop/5ac57b3ebd9f9e0004adb210/content/5ac57b3ebd9f9e0004adb215/text)
+<!--[Workshop](https://learn.fullstackacademy.com/workshop/5ac57b3ebd9f9e0004adb210/content/5ac57b3ebd9f9e0004adb215/text)
 
 [Lecture Slides](Lecture-Slides/09-Objects.pptx)
 
