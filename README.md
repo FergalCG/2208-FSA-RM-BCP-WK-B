@@ -16,8 +16,8 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 8. [Sudoku Validator](#08-sudoku-validator)
 9. [Objects](#09-objects)
 10. [Object Methods](#10-object-methods)
-<!--11. [Pass by Value/Pass by Reference](#11-pass-by-valuepass-by-reference)
-12. [Higher Order Functions I](#12-higher-order-functions-i)
+11. [Pass by Value/Pass by Reference](#11-pass-by-valuepass-by-reference)
+<!--12. [Higher Order Functions I](#12-higher-order-functions-i)
 13. [Higher Order Functions II](#13-higher-order-functions-ii)
 14. [Recursion I](#14-recursion-i)
 15. [Recursion II](#15-recursion-ii)
@@ -137,9 +137,9 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 [Lecture Slides](Lecture-Slides/08-BCP-Sudoku.pptx)
 
-<!--**[Review](https://youtu.be/kYe2oNQmO04)**
+**[Review](https://youtu.be/kYe2oNQmO04)**
 
-[Solutions](https://learn.fullstackacademy.com/workshop/5ad399aa137d870004733bac/content/5ad399aa137d870004733bb2/text)-->
+[Solutions](https://learn.fullstackacademy.com/workshop/5ad399aa137d870004733bac/content/5ad399aa137d870004733bb2/text)
 
 
 ## **09 Objects**
@@ -157,7 +157,7 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac57cb8bd9f9e0004adb24a/content/5ac57cb8bd9f9e0004adb24e/text)
 
-<!--[Lecture Slides](Lecture-Slides/10-Object-Methods.pptx)
+[Lecture Slides](Lecture-Slides/10-Object-Methods.pptx)
 
 **[Live Lecture + Review](https://youtu.be/TCN87j_ex5A)**
 
@@ -167,7 +167,7 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5aca3ccb37312200043b62bb/content/5aca3ccb37312200043b62bf/text)
 
-[Lecture Slides](Lecture-Slides/11-PBV-PBR.pptx)
+<!--[Lecture Slides](Lecture-Slides/11-PBV-PBR.pptx)
 
 **[Live Lecture + Review](https://youtu.be/LzEZbImfbo4)**
 
